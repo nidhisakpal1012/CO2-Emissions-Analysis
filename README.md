@@ -22,3 +22,6 @@ This project analyzes CO2 emissions data and predicts future emissions using Mac
 
 ## 🚀 Project Output
 Includes graphs and predictions for better understanding of emissions trend
+
+## 📊 Tableau Dashboard
+[(Add your Tableau link here)](https://public.tableau.com/app/profile/nidhi.sakpal3145/viz/cosemission_17798679909250/Dashboard1?publish=yes)
